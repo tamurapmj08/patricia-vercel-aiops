@@ -1,0 +1,7 @@
+Build fix included:
+- Added tsconfig path alias '@/*'
+- Updated Next.js to 14.2.30
+- Simplified devDependencies
+- Keeps same app/content/assets
+
+Upload/replace all files in GitHub repo root, especially package.json and tsconfig.json.
